@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanlısCarpmaOdev", "YanlısCarpmaOdev\YanlısCarpmaOdev.csproj", "{7E3611C1-AB82-4155-8335-9E7AA4F4A8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanlisCarp", "YanlisCarp\YanlisCarp.csproj", "{DF9560C2-069F-4726-BF03-8BB1AC99A766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3611C1-AB82-4155-8335-9E7AA4F4A8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3611C1-AB82-4155-8335-9E7AA4F4A8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3611C1-AB82-4155-8335-9E7AA4F4A8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3611C1-AB82-4155-8335-9E7AA4F4A8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9560C2-069F-4726-BF03-8BB1AC99A766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9560C2-069F-4726-BF03-8BB1AC99A766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9560C2-069F-4726-BF03-8BB1AC99A766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9560C2-069F-4726-BF03-8BB1AC99A766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24C833C-9C4A-4B6F-A12E-6CC980830FE0}
+	EndGlobalSection
+EndGlobal

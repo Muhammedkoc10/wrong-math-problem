@@ -1,0 +1,16 @@
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.exe
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.deps.json
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.runtimeconfig.json
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.runtimeconfig.dev.json
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.dll
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\ref\YanlisCarp.dll
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\bin\Debug\net5.0\YanlisCarp.pdb
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.AssemblyInfo.cs
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.dll
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\ref\YanlisCarp.dll
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.pdb
+C:\Users\muham\source\repos\YanlısCarpmaOdev\YanlisCarp\obj\Debug\net5.0\YanlisCarp.genruntimeconfig.cache
